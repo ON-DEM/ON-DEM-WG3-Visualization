@@ -1,0 +1,5 @@
+<VTKFile type="vtkPartitionedDataSet" version="1.0" byte_order="LittleEndian" header_type="UInt64">
+  <vtkPartitionedDataSet>
+    <DataSet index="0" file="particles/particles_0.vtu"/>
+  </vtkPartitionedDataSet>
+</VTKFile>
